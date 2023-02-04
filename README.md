@@ -9,10 +9,8 @@
 </p>
 
 ---
-### 📢 Find me on
+### 📢 Contact me by
 
-  
-  
   <a href="https://www.linkedin.com/in/marcin-kapturski/">
     <img src="https://img.shields.io/badge/LinkedIn-_-blue?logo=LinkedIn" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
