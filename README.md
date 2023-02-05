@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here you can meet me from my technical side. Below you will find my projects that I have been working on for a long time, <br />
+Here you can get to know me from my technical side. Below you will find my projects that I have been working on for a long time, <br />
 either for my clients or for myself. Most of them will be described on my blog over the time.
 <br /><br />
 <p align="center">
@@ -23,7 +23,7 @@ I made them public as a "Proof Of Concept" for solutions to technical problems I
 
 ---
 
-### 📢 Contact me by
+### 📢 Contact me
 
 If you’re looking for a freelancer to help you test your software in order to meet the highest quality standards, reach out to me. <br />
 Fill out the form on my <a target="_blank" href="https://marcinkapturski.com">website</a>, or contact me directly.
@@ -47,6 +47,7 @@ Fill out the form on my <a target="_blank" href="https://marcinkapturski.com">we
     <img src="https://img.shields.io/badge/React-_-blue?logo=React" alt="React" style="vertical-align:top; margin:4px">
     <img src="https://img.shields.io/badge/Appium-_-blue?logo=Appium" alt="Appium" style="vertical-align:top; margin:4px">
     <img src="https://img.shields.io/badge/Playwright-_-blue?logo=Playwright" alt="Playwright" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/GitHubActions-_-blue?logo=GitHubActions" alt="GitHubActions" style="vertical-align:top; margin:4px">
     <img src="https://img.shields.io/badge/Postman-_-blue?logo=Postman" alt="Postman" style="vertical-align:top; margin:4px">
     <img src="https://img.shields.io/badge/Grafana-_-blue?logo=Grafana" alt="Grafana" style="vertical-align:top; margin:4px">
 </p>
