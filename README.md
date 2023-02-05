@@ -5,7 +5,7 @@ either for my clients or for myself. Most of them will be described on my blog o
 <br /><br />
 <p align="center">
   <a target="_blank" href="https://marcinkapturski.com">
-    <img src="https://img.shields.io/badge/Personal_Website-link_here-blue?logo=React" alt="Personal Website" style="vertical-align:top; margin:10px">
+    <img src="https://img.shields.io/badge/Personal_Website-link_here-blue?style=for-the-badge&logo=React" alt="Personal Website" style="vertical-align:top; margin:10px">
   </a>  
 </p>
 <br />
