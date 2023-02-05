@@ -13,7 +13,7 @@ I made them public as a "Proof Of Concept" for solutions to technical problems I
 
 ```gherkin
     Examples:
-      | github-action-workflows-cypress     | Custome workflows, Cypress, Slack reporting, Pull Request support     |
+      | github-action-workflows-cypress     | Custom workflows, Cypress, Slack reporting, Pull Request support     |
       | github-action-workflows-appium      | GHA workflows, Appium, LambdaTests/BrowserStack, many devices         |
       | web-automation-with-cypress         | Web automation, Cypress, POM, multiple environments                   |
       | tobi-qa-slack-bot                   | Running automation tests dirlectly from Slack                         |
