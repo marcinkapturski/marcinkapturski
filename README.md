@@ -46,6 +46,7 @@ Fill out the form on my <a target="_blank" href="https://marcinkapturski.com">we
     <img src="https://img.shields.io/badge/JavaScript-_-blue?logo=JavaScript" alt="JavaScript" style="vertical-align:top; margin:4px">
     <img src="https://img.shields.io/badge/React-_-blue?logo=React" alt="React" style="vertical-align:top; margin:4px">
     <img src="https://img.shields.io/badge/Appium-_-blue?logo=Appium" alt="Appium" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/WebdriverIO-_-blue?logo=WebdriverIO" alt="WebdriverIO" style="vertical-align:top; margin:4px">
     <img src="https://img.shields.io/badge/Playwright-_-blue?logo=Playwright" alt="Playwright" style="vertical-align:top; margin:4px">
     <img src="https://img.shields.io/badge/GitHubActions-_-blue?logo=GitHubActions" alt="GitHubActions" style="vertical-align:top; margin:4px">
     <img src="https://img.shields.io/badge/Postman-_-blue?logo=Postman" alt="Postman" style="vertical-align:top; margin:4px">
