@@ -15,10 +15,8 @@ I made them public as a "Proof Of Concept" for solutions to technical problems I
     Examples:
       | github-action-workflows-cypress  | Custom workflows, Cypress, Slack reporting, Pull Request support  |
       | github-action-workflows-appium   | GHA workflows, Appium, LambdaTest/BrowserStack, many devices      |
-      | web-automation-with-cypress      | Web automation, Cypress, POM, multiple environments               |
+      | marcinkapturski.com              | React, JavaScript, DatoCMS, Cypress, BDD Cucumber, POM            |      
       | tobi-qa-slack-bot                | Running automation tests dirlectly from Slack                     |
-      | marcinkapturski.com              | React, JavaScript, DatoCMS, my Playground for learning React      |
-      | reporter                         | My first React application with Node API in JavaScript            |
 ```
 
 ---
@@ -37,6 +35,7 @@ Fill out the form on my <a target="_blank" href="https://marcinkapturski.com">we
     <img src="https://img.shields.io/badge/Gmail-_-blue?logo=Gmail" alt="Gmail" style="vertical-align:top; margin:4px">
   </a>
 </p>
+
 ---
 
 ### 🚧 I build with...
