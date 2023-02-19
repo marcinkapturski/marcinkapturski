@@ -35,6 +35,10 @@ Fill out the form on my <a target="_blank" href="https://marcinkapturski.com">we
   <a href="mailto:marcin.kapturski.m@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-_-blue?logo=Gmail" alt="Gmail" style="vertical-align:top; margin:4px">
   </a>
+  
+  <a href="tel:48 531 230 588">
+    <img src="https://img.shields.io/badge/MyMobile-_-blue?logo=Mobile" alt="Mobile" style="vertical-align:top; margin:4px">
+  </a>
 </p>
 
 ---
