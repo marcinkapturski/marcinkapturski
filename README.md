@@ -37,7 +37,7 @@ Fill out the form on my <a target="_blank" href="https://marcinkapturski.com">we
   </a>
   
   <a href="tel:48 531 230 588">
-    <img src="https://img.shields.io/badge/MyMobile-_-blue?logo=Mobile" alt="Mobile" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/MyMobile +48 531 230 588-_-blue?logo=Mobile +48 531 230 588" alt="Mobile" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
