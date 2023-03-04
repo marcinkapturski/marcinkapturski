@@ -6,6 +6,8 @@
 </p>
 <br />
 Here you can get to know me from my technical side. Just take a look at my public repositories
+<br />
+
 ```gherkin  
     Examples:
       | cypress-cucumber-boilerplate    | Cypress, Slack reporting, Pull Request support  |      
