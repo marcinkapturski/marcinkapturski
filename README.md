@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-Here you can get to know me from my technical side. Below you will find my projects that I have been working on for a long time, <br />
-either for my clients or for myself. Most of them will be described on my blog over the time.
 <br /><br />
 <p align="center">
   <a target="_blank" href="https://marcinkapturski.com">
@@ -9,39 +6,14 @@ either for my clients or for myself. Most of them will be described on my blog o
   </a>  
 </p>
 <br />
-I made them public as a "Proof Of Concept" for solutions to technical problems I had to face during my years of work as a Software Tester
 
-```gherkin
+```gherkin  
     Examples:
-      | marcinkapturski.com                  | React, JavaScript, Cypress, BDD Cucumber, POM, DatoCMS           | 
-      | mobile-automation-appium-android-ios | Appium, BrowserStack, LambdaTest, Mobile native apps automation  |
-      | github-action-workflows-cypress      | Custom workflows, Cypress, Slack reporting, Pull Request support |
-      | github-action-workflows-appium       | GHA workflows, Appium, LambdaTest/BrowserStack, many devices     |
-      | tobi-qa-slack-bot                    | Running automation tests dirlectly from Slack                    |
+      | cypress-cucumber-boilerplate    | Cypress, Slack reporting, Pull Request support  |      
+      | mobile-appium-boilerplate       | JavaScript, Cypress, BDD Cucumber, POM          |
+      | tobi-qa-slack-bot               | Running automation tests dirlectly from Slack   |
+      | marcinkapturski.com             | Personal blog, JavaScript, React, DatoCMS       | 
 ```
-
----
-
-### 📢 Contact me
-
-If you’re looking for a freelancer to help you test your software in order to meet the highest quality standards, reach out to me. <br />
-Fill out the form on my <a target="_blank" href="https://marcinkapturski.com">website</a>, or contact me directly.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/marcin-kapturski/">
-    <img src="https://img.shields.io/badge/LinkedIn-_-blue?logo=LinkedIn" alt="LinkedIn" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="mailto:marcin.kapturski.m@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-_-blue?logo=Gmail" alt="Gmail" style="vertical-align:top; margin:4px">
-  </a>
-  
-  <a href="tel:48 531 230 588">
-    <img src="https://img.shields.io/badge/Mobile +48 531 230 588-_-blue?logo=Mobile +48 531 230 588" alt="Mobile" style="vertical-align:top; margin:4px">
-  </a>
-</p>
-
----
 
 ### 🚧 I build with...
 
@@ -57,10 +29,4 @@ Fill out the form on my <a target="_blank" href="https://marcinkapturski.com">we
     <img src="https://img.shields.io/badge/BrowserStack-_-blue?logo=BrowserStack" alt="BrowserStack" style="vertical-align:top; margin:4px">
     <img src="https://img.shields.io/badge/LambdaTest-_-blue?logo=LambdaTest" alt="LambdaTest" style="vertical-align:top; margin:4px">
     <img src="https://img.shields.io/badge/Grafana-_-blue?logo=Grafana" alt="Grafana" style="vertical-align:top; margin:4px">
-</p>
-
----
-
-### 🌱 I’m currently working on
-Catching up with Playwright to make it one of the tools I specialize in
 </p>
