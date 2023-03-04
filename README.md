@@ -12,7 +12,7 @@ Here you can get to know me from my technical side. Just take a look at my publi
     Examples:
       | cypress-cucumber-boilerplate    | Cypress tests, run tests on dev/localost env and pull request, report test runs on Slack |      
       | mobile-appium-boilerplate       | Automation tests with Appium, WebdriverIO, JavaScript, BDD Cucumber, POM, reporting      |
-      | tobi-qa-slack-bot               | Running automation tests dirlectly from Slack, supporting tool for Cypress automatio     |
+      | tobi-qa-slack-bot               | Running automation tests dirlectly from Slack, supporting tool for Cypress automation    |
       | marcinkapturski.com             | Personal blog, JavaScript, React, DatoCMS                                                | 
 ```
 
