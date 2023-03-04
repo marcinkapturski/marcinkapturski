@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center">
   <a target="_blank" href="https://marcinkapturski.com">
-    <img src="https://img.shields.io/badge/Personal_Website-link_here-blue?style=for-the-badge&logo=React" alt="Personal Website" style="vertical-align:top; margin:10px">
+    <img src="https://img.shields.io/badge/my_personal_website-link_here-blue?style=for-the-badge&logo=React" alt="My Personal Website" style="vertical-align:top; margin:10px">
   </a>  
 </p>
 Here you can get to know me from my technical side. Just take a look at my public repositories
