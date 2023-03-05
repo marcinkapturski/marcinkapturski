@@ -10,10 +10,10 @@ Here you can get to know me from my technical side. Just take a look at my publi
 
 ```gherkin  
     Examples:
-      | cypress-cucumber-boilerplate    | Cypress tests, run tests on dev/localost env and pull request, report test runs on Slack |      
-      | mobile-appium-boilerplate       | Automation tests with Appium, WebdriverIO, JavaScript, BDD Cucumber, POM, reporting      |
+      | marcinkapturski.com             | Personal blog, JavaScript, React, DatoCMS, Cypress Web automation, GitHub Actions        |
+      | github-actions-workflows        | Workflows for running Cypress & Appium/mobile automation with Slack reporting            |
       | tobi-qa-slack-bot               | Running automation tests dirlectly from Slack, supporting tool for Cypress automation    |
-      | marcinkapturski.com             | Personal blog, JavaScript, React, DatoCMS                                                | 
+ 
 ```
 
 ### 🚧 I build with...
