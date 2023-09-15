@@ -4,17 +4,7 @@
     <img src="https://img.shields.io/badge/my_personal_website-link_here-blue?style=for-the-badge&logo=React" alt="My Personal Website" style="vertical-align:top; margin:10px">
   </a>  
 </p>
-Here you can get to know me from my technical side. Just take a look at my public repositories
-<br />
-<br />
 
-```gherkin  
-    Examples:
-      | marcinkapturski.com             | Personal blog, JavaScript, React, DatoCMS, Cypress Web automation, GitHub Actions        |
-      | github-actions-workflows        | Workflows for running Cypress & Appium/mobile automation with Slack reporting            |
-      | tobi-qa-slack-bot               | Running automation tests dirlectly from Slack, supporting tool for Cypress automation    |
- 
-```
 
 ### 🚧 I build with...
 
