@@ -6,18 +6,4 @@
 </p>
 
 
-### 🚧 I build with...
 
-<p align="left">
-    <img src="https://img.shields.io/badge/Cypress-_-blue?logo=Cypress" alt="Cypress" style="vertical-align:top; margin:4px">
-    <img src="https://img.shields.io/badge/JavaScript-_-blue?logo=JavaScript" alt="JavaScript" style="vertical-align:top; margin:4px">
-    <img src="https://img.shields.io/badge/React-_-blue?logo=React" alt="React" style="vertical-align:top; margin:4px">
-    <img src="https://img.shields.io/badge/Appium-_-blue?logo=Appium" alt="Appium" style="vertical-align:top; margin:4px">
-    <img src="https://img.shields.io/badge/WebdriverIO-_-blue?logo=WebdriverIO" alt="WebdriverIO" style="vertical-align:top; margin:4px">
-    <img src="https://img.shields.io/badge/Playwright-_-blue?logo=Playwright" alt="Playwright" style="vertical-align:top; margin:4px">
-    <img src="https://img.shields.io/badge/GitHubActions-_-blue?logo=GitHubActions" alt="GitHubActions" style="vertical-align:top; margin:4px">
-    <img src="https://img.shields.io/badge/Postman-_-blue?logo=Postman" alt="Postman" style="vertical-align:top; margin:4px">
-    <img src="https://img.shields.io/badge/BrowserStack-_-blue?logo=BrowserStack" alt="BrowserStack" style="vertical-align:top; margin:4px">
-    <img src="https://img.shields.io/badge/LambdaTest-_-blue?logo=LambdaTest" alt="LambdaTest" style="vertical-align:top; margin:4px">
-    <img src="https://img.shields.io/badge/Grafana-_-blue?logo=Grafana" alt="Grafana" style="vertical-align:top; margin:4px">
-</p>
